@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Encuesta EcoGuardian",
+  "short_name": "EcoGuardian",
+  "description": "Encuesta de validación de mercado para bolsas biodegradables para mascotas en Bogotá.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F6F0",
+  "theme_color": "#1F5C3A",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
